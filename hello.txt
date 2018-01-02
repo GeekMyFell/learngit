@@ -1,0 +1,5 @@
+pubilc class Test{
+	pubilc static void  mian(String[] args){
+		System.out.prilnt("Hello!");
+	} 
+}
